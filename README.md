@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saraeldeeb9" alt="saraeldeeb9" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science track**
+- 🌱 I’m currently learning **Data Science**
 
 - 📫 How to reach me **ssaarraa.eldeeb@gmail.com**
 
